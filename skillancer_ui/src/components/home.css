@@ -1,0 +1,169 @@
+.rectangle17{
+    position: absolute;
+width: 632px;
+height: 785px;
+left: 718px;
+top: 0px;
+
+background: #190E50;
+}
+
+.rectangle25{
+    position: absolute;
+width: 50px;
+height: 100px;
+left: 718px;
+top: 146px;
+
+background: #17F4D1;
+border-radius: 0px 50px 50px 0px;
+}
+
+.rectangle26{
+    position: absolute;
+width: 50px;
+height: 100px;
+left: 670px;
+top: 100px;
+
+background: #2082C3;
+border-radius: 0px 50px 50px 0px;
+transform: rotate(-180deg);
+}
+
+.rectangle20{
+    position: absolute;
+width: 270px;
+height: 70px;
+left: 773px;
+top: 161px;
+
+background: #F26CA7;
+border-radius: 0px 103px 103px 103px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.rectangle19{
+    position: absolute;
+width: 224px;
+height: 206px;
+left: 718px;
+top: 287px;
+
+
+border-radius: 0px 132.176px 132.176px 132.176px;
+}
+
+.rectangle21{
+    position: absolute;
+width: 399px;
+height: 420px;
+left: 942px;
+top: 192px;
+/* border-radius: 0px 288.841px 288.841px 288.841px; */
+transform: rotate(-360deg);
+}
+
+.rectangle22{
+    position: absolute;
+width: 326px;
+height: 283.22px;
+left: 720px;
+top: 505.22px;
+
+/* background: url(surprised-blonde-woman-points-right-copy-space-blue-wall-expresses-surprise.jpg); */
+/* border-radius: 248.159px 0px 248.159px 248.159px; */
+transform: rotate(-360deg);
+}
+
+.rectangle23{
+    
+position: absolute;
+width: 221px;
+height: 192px;
+left: 1130px;
+top: 595px;
+
+/* background: url(close-up-young-successful-man-smiling-camera-standing-casual-outfit-against-blue-background.jpg); */
+/* border-radius: 0px 116px 116px 116px; */
+transform: rotate(-360deg);
+}
+
+.rectangle24{
+    
+position: absolute;
+width: 200px;
+height: 100px;
+left: 930px;
+top: 686px;
+
+background: #F26CA7;
+border-radius: 136.275px 136.275px 0px 0px;
+}
+
+.rightp{
+position: absolute;
+width: 590px;
+height: 233px;
+left: 95.53px;
+top: 170px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 50.0769px;
+line-height: 68px;
+/* or 112% */
+
+letter-spacing: 5.49917px;
+
+/* Other Variants/Charcoal Black */
+
+color: #1C1C1C;
+}
+
+.span {
+    color : #F36523
+}
+
+.vector {
+    position: absolute;
+width: 32.86px;
+height: 80px;
+left: 546px;
+top: 406px;
+
+/* Other Variants/Orange */
+
+/* background: #F36523; */
+}
+
+
+.content{
+position: absolute;
+width: 633px;
+height: 30px;
+left: 90px;
+top: 490px;
+    
+    /* Paragraph/18px */
+    
+    font-family: 'Open Sans';
+font-style:normal;
+font-weight:bold;
+font-size: 12px;
+line-height: 10px;
+/* identical to box height, or 167% */
+
+
+/* Other Variants/Charcoal Black */
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}

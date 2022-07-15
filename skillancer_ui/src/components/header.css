@@ -1,0 +1,181 @@
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.logo {
+  position: absolute;
+  width: 154px;
+  height: 44px;
+  left: 40px;
+  top: 35px;
+}
+
+.input {
+  position: absolute;
+  width: 350px;
+  height: 32px;
+  left: 212px;
+  top: 46px;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  width: 482px;
+  height: 26px;
+  left: 501px;
+  top: 49px;
+
+  /* H5 Heading 18px/Semibold */
+
+  font-family: "Urbanist";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+  /* identical to box height, or 144% */
+
+  text-align: right;
+  letter-spacing: 0.005em;
+
+  /* Other Variants/Charcoal Black */
+
+  color: #1c1c1c;
+}
+
+.search {
+  width: 68px;
+  height: 32px;
+
+  background: #f36523;
+  border-radius: 0px 4px 4px 0px;
+  /* H6 Heading/16px Bold */
+
+  font-family: "Urbanist";
+  font-style: normal;
+  /* or 162% */
+
+  letter-spacing: 0.5px;
+
+  /* Secondary/White */
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+  border: #ffffff;
+}
+
+.searchbar {
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  padding: 12px 20px;
+  gap: 4px;
+
+  width: 209px;
+  height: 32px;
+  left: 312px;
+  top: 46px;
+
+  /* Secondary/White */
+
+  background: #ffffff;
+  /* Other Variants/Orange */
+
+  border: 1.5px solid #f36523;
+  border-radius: 4px 0px 0px 4px;
+
+  /* Idle placeholder */
+
+  /* Paragraph/15px */
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 24px;
+  /* or 160% */
+
+  /* Secondary/light */
+
+  color: #999999;
+}
+
+.list li {
+  display: block;
+  padding: 0 5px 0 5px;
+}
+
+.rightlist {
+  margin: 20px 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  align-items: center;
+  justify-content: end;
+
+  color: #ffffff;
+}
+
+.rightlist li {
+  display: block;
+  padding: 0 5px 0 5px;
+}
+
+.seller .signin {
+  width: 217px;
+  height: 26px;
+
+  /* H5 Heading 18px/Semibold */
+
+  font-family: "Urbanist";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+  /* identical to box height, or 144% */
+
+  text-align: right;
+  letter-spacing: 0.005em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.join {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 11px 24px;
+  gap: 10px;
+
+  width: 82px;
+  height: 34px;
+
+  /* Other Variants/Orange */
+
+  background: #f36523;
+  border-radius: 45px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  border: #ffffff;
+}
