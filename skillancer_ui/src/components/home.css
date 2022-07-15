@@ -1,3 +1,7 @@
+.body{
+    overflow-x:hidden;
+}
+
 .rectangle17{
     position: absolute;
 width: 632px;
@@ -130,8 +134,8 @@ color: #1C1C1C;
     position: absolute;
 width: 32.86px;
 height: 80px;
-left: 546px;
-top: 406px;
+left: 556px;
+top: 370px;
 
 /* Other Variants/Orange */
 
@@ -139,12 +143,12 @@ top: 406px;
 }
 
 
-.content{
+.contentp{
 position: absolute;
 width: 633px;
 height: 30px;
 left: 90px;
-top: 490px;
+top: 440px;
     
     /* Paragraph/18px */
     
@@ -166,4 +170,299 @@ color: #1C1C1C;
 flex: none;
 order: 0;
 flex-grow: 0;
+}
+
+.workbutton{
+    /* Buttons */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 695px;
+height: 77px;
+left: 86px;
+top: 490px;
+}
+
+.btn_work{
+    /* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 11px 24px;
+gap: 10px;
+width: 190px;
+height: 47px;
+
+/* Other Variants/Orange */
+
+background: #F36523;
+border-radius: 65px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+color: #FFFFFF;
+
+border: #FFFFFF;
+
+}
+
+.vector1{
+    /* position: absolute; */
+left: 4%;
+right: 4.47%;
+top: 8.5%;
+bottom: 8.5%;
+
+/* background: #FFFFFF; */
+}
+
+.btn_talent{
+    /* Buttons */
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 11px 24px;
+gap: 10px;
+
+width: 150px;
+height: 40px;
+
+background: #FFFFFF;
+/* Other Variants/Orange */
+
+border: 2px solid #F36523;
+border-radius: 74px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+.vector2{
+    left: 0%;
+right: 0.37%;
+top: 8%;
+bottom: 8.5%;
+
+/* Secondary/Dark */
+
+/* background: #0A0F26; */
+}
+
+.vector3 {
+
+    width: 40.98px;
+    height: 10.04px;
+    
+    
+    color: #1C1C1C;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.startfromhere{
+    
+width: 90px;
+height: 14px;
+
+font-family: 'Gochi Hand';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+letter-spacing: 0.5px;
+
+/* Other Variants/Charcoal Black */
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+
+.play_btn {
+    /* Play */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 323px;
+height: 38px;
+left: 79px;
+top: 579px;
+
+}
+
+.btnplay{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 323px;
+height: 38px;
+
+}
+
+.playbtn{
+    width: 25px;
+    height: 25px;
+    border: 1px solid grey;
+    background: white;
+    border-radius: 10px;
+}
+
+
+.seehow{
+     
+    width: 275px;
+    height: 26px;
+
+    
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+   
+    letter-spacing: 0.5px;
+    
+    color: #64748B; 
+}
+
+.trustedby{
+    /* Trusted by */
+
+
+position: absolute;
+width: 138px;
+height: 38px;
+left: 89px;
+top:600px;
+
+/* H3 Heading/28px Semibold */
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 38px;
+/* identical to box height, or 136% */
+
+letter-spacing: 0.5px;
+
+/* Other Variants/Charcoal Black */
+
+color: #1C1C1C;
+}
+
+
+.brands{
+    position: absolute;
+width: 768.51px;
+height: 56.49px;
+left: 89px;
+top: 600px;
+
+}
+
+
+.slacknew{
+    position: absolute;
+width: 56.49px;
+height: 56.49px;
+left: 89px;
+top: 710px;
+}
+
+.slack{
+    /* Slack */
+
+
+position: absolute;
+width: 75px;
+height: 34px;
+left: 140px;
+top: 720px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 28.2432px;
+line-height: 34px;
+text-align: center;
+
+color: #D9D9D9;
+}
+
+
+.woo{
+    position: absolute;
+width: 56.49px;
+height: 56.49px;
+left: 253px;
+top: 710px;
+
+}
+
+.commerce{
+    position: absolute;
+width: 150px;
+height: 34px;
+left: 320px;
+top: 720px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 28.2432px;
+line-height: 34px;
+
+color: #D9D9D9;
 }

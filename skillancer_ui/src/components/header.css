@@ -26,14 +26,14 @@
   position: absolute;
   width: 482px;
   height: 26px;
-  left: 501px;
+  left: 506px;
   top: 49px;
 
   /* H5 Heading 18px/Semibold */
 
   font-family: "Urbanist";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 300;
   font-size: 18px;
   line-height: 26px;
   /* identical to box height, or 144% */
@@ -146,6 +146,8 @@
 
   text-align: right;
   letter-spacing: 0.005em;
+
+  background: none;
 
   color: #ffffff;
 
