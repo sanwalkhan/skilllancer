@@ -7,6 +7,7 @@
 
 .bkcwhite{
     background-color:#FFFFFF;
+    width: 90%;
 }
 
 
@@ -750,15 +751,16 @@ color: #FFFFFF;
     display: flex;
 flex-direction: column;
 align-items: center;
+align-content: space-between;
 padding: 0px;
 gap: 40px;
 
 position: absolute;
-width: 80%;
+width: 1100px;
 height: 479px;
-left: 169px;
-top: 1394px;
-border: 2px solid #000000;
+left: 129px;
+top: 1074px;
+
 background-color: #E5E5E5;
 }
 
@@ -801,12 +803,11 @@ flex-grow: 0;
     position: absolute;
 width: 203px;
 height: 191px;
-left: 0px;
+left: 42px;
 top: 268px;
 
 background: #FFFFFF;
 border-radius: 31px;
-border: 2px solid black;
 }
 
 .rectangle35{
@@ -818,7 +819,7 @@ border: 2px solid black;
     
     background: #FFFFFF;
     border-radius: 31px;
-border: 2px solid black;
+
 
 }
 
@@ -828,7 +829,7 @@ border: 2px solid black;
 position: absolute;
 width: 203px;
 height: 191px;
-left: 596px;
+left: 556px;
 top: 268px;
 
 background: #F36523;
@@ -840,11 +841,134 @@ border-radius: 31px;
     position: absolute;
     width: 203px;
 height: 191px;
-    left: 859px;
+    left: 839px;
     top: 268px;
     
     background: #FFFFFF;
     border-radius: 31px;
-border: 2px solid black;
 
+}
+
+
+.group108{
+    position: absolute;
+width: 50.96px;
+height: 60.55px;
+left: 69px;
+top: -37px;
+}
+
+
+.postjob{
+    position: absolute;
+width: 148px;
+height: 42px;
+left: 28px;
+top: 60px;
+text-align: center;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22.2432px;
+line-height: 42px;
+
+/* Other Variants/Orange */
+
+color: #F36523;
+
+}
+
+.createacc{
+position: relative;
+left: 0px;
+top: 109px;
+
+/* H5 Heading/18px Normal */
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 12px;
+/* or 144% */
+
+text-align: center;
+letter-spacing: 0.5px;
+
+/* Secondary/Dark */
+
+color: #0A0F26;
+}
+
+.group109{
+    position: absolute;
+width: 50.96px;
+height: 60.55px;
+left: 78px;
+top: -37px;
+}
+
+.group111{
+    position: absolute;
+width: 50.96px;
+height: 60.55px;
+left: 80px;
+top: -37px;
+}
+
+.group110{
+position: absolute;
+width: 57px;
+height: 66px;
+left: 78px;
+top: -37px;
+
+}
+
+
+.paysafety{
+    position: absolute;
+    width: 148px;
+    height: 42px;
+    left: 28px;
+    top: 60px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22.2432px;
+    line-height: 42px;
+    
+    /* Other Variants/Orange */
+    
+    color: #FFFFFF;
+}
+
+
+.createaccc{
+    position: relative;
+left: 0px;
+top: 109px;
+
+/* H5 Heading/18px Normal */
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 12px;
+/* or 144% */
+
+text-align: center;
+letter-spacing: 0.5px;
+
+/* Secondary/Dark */
+
+color: #FFFFFF;
+}
+
+
+.seconddiv{
+    width: 100%;
+    background-color: #17F4D1;
 }

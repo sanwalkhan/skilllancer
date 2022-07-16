@@ -26,7 +26,7 @@
   position: absolute;
   width: 482px;
   height: 26px;
-  left: 506px;
+  left: 50px;
   top: 49px;
 
   /* H5 Heading 18px/Semibold */
@@ -146,8 +146,6 @@
 
   text-align: right;
   letter-spacing: 0.005em;
-
-  background: none;
 
   color: #ffffff;
 

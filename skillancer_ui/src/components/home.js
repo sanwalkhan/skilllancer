@@ -19,9 +19,15 @@ import woo from "../images/WooCommerce.png";
 import apple from "../images/Apple Logo.png";
 import microsoft from "../images/Microsoft.png";
 import ellipse10 from "../images/Ellipse 10.png";
-import reactangle27 from "../images/Rectangle 27.png";
-import reactangle28 from "../images/Rectangle 28.png";
-import reactangle29 from "../images/Rectangle 29.png";
+// import reactangle27 from "../images/Rectangle 27.png";
+// import reactangle28 from "../images/Rectangle 28.png";
+// import reactangle29 from "../images/Rectangle 29.png";
+import group108 from "../images/Group 108.png"
+import group109 from "../images/Group 109.png"
+import group111 from "../images/Group 111.png"
+import group110 from "../images/Group 110.png"
+
+
 
 // import seehowthimgs from "../images/See how we’re rolling things around.jpg"
 import startfromhere from "../images/Start from here.jpg";
@@ -159,7 +165,7 @@ export const Home = () => {
           <span className="contentjob">For any Job, Online</span>
         </p>
       </div>
-      <div>
+      <div className="seconddiv">
       
       <div className="frametwoninefour">
       <p className="workdone">
@@ -170,12 +176,25 @@ export const Home = () => {
       </p>
 
       <div className="rectangle30">
+      <img className="group108" src={group108} alt="img" />
+      <p className="postjob">Post a Job</p>
+      <p className="createacc">Create your free job posting and start recieving Quotes within hours</p>
       </div>
       <div className="rectangle35">
+      <img className="group109" src={group109} alt="img" />
+      <p className="postjob">Hire Freelancers</p>
+      <p className="createacc">Create your free job posting and start recieving Quotes within hours</p>
       </div>
       <div className="rectangle36">
+      <img className="group110" src={group110} alt="img" />
+    
+      <p className="paysafety">Pay Safely</p>
+      <p className="createaccc">Create your free job posting and start recieving Quotes within hours</p>
       </div>
       <div className="rectangle37">
+      <img className="group111" src={group111} alt="img" />
+      <p className="postjob">Post a Job</p>
+      <p className="createacc">Create your free job posting and start recieving Quotes within hours</p>
       </div>
 
       </div>
