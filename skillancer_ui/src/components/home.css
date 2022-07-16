@@ -1,6 +1,14 @@
+
+
 .body{
     overflow-x:hidden;
+    background-color: #E5E5E5;
 }
+
+.bkcwhite{
+    background-color:#FFFFFF;
+}
+
 
 .rectangle17{
     position: absolute;
@@ -415,9 +423,9 @@ top: 600px;
 
 .slacknew{
     position: absolute;
-width: 56.49px;
-height: 56.49px;
-left: 89px;
+width: 40.49px;
+height: 40.49px;
+left: 79px;
 top: 710px;
 }
 
@@ -426,10 +434,10 @@ top: 710px;
 
 
 position: absolute;
-width: 75px;
+width: 40px;
 height: 34px;
-left: 140px;
-top: 720px;
+left: 120px;
+top: 710px;
 
 font-family: 'Inter';
 font-style: normal;
@@ -445,18 +453,18 @@ color: #D9D9D9;
 .woo{
     position: absolute;
 width: 56.49px;
-height: 56.49px;
-left: 253px;
+height: 46.49px;
+left: 203px;
 top: 710px;
 
 }
 
 .commerce{
     position: absolute;
-width: 150px;
+width: 120px;
 height: 34px;
-left: 320px;
-top: 720px;
+left: 260px;
+top: 713px;
 
 font-family: 'Inter';
 font-style: normal;
@@ -465,4 +473,378 @@ font-size: 28.2432px;
 line-height: 34px;
 
 color: #D9D9D9;
+}
+
+
+.apple{
+    position: absolute;
+width: 46.49px;
+height: 46.49px;
+left: 400px;
+top: 705px;
+}
+
+.appletext{
+    position: absolute;
+    width: 55px;
+    height: 34px;
+    left: 444px;
+top: 710px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28.2432px;
+    line-height: 34px;
+    
+    color: #D9D9D9;
+}
+
+.microsoft{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 530px;
+    top: 710px;
+}
+
+.microsofttext{
+    position: absolute;
+width: 82px;
+height: 30px;
+left: 570px;
+top: 712px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 28.2432px;
+line-height: 34px;
+
+color: #D9D9D9;
+}
+
+
+
+.ellipse10{
+    position: absolute;
+width: 180px;
+height: 180px;
+left: 1130px;
+top: 680px;
+
+background: #17F4D1;
+
+border-radius:150px;
+
+}
+
+
+.rectangle27{
+position: absolute;
+width: 182px;
+height: 122px;
+left: 89px;
+top: 810px;
+
+background: #F26CA7;
+border-radius: 5px;
+}
+
+.rectangle28{
+    position: absolute;
+    width: 182px;
+    height: 122px;
+    left: 328px;
+    top: 810px;
+    
+    background: #F36523;
+    border-radius: 5px;
+}
+
+.rectangle29{
+    position: absolute;
+width: 182px;
+height: 122px;
+left: 560px;
+top: 810px;
+
+background: #2082C3;
+border-radius: 5px;
+}
+
+
+
+.HireBest{
+    position: absolute;
+    width: 421px;
+    height: 38px;
+    left: 830px;
+    top: 780px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 38px;
+    line-height: 35px;
+    /* identical to box height, or 112% */
+    
+    letter-spacing: 0.5px;
+    
+    /* Other Variants/Charcoal Black */
+    
+    color: #1C1C1C;
+    
+}
+
+.contentjob{
+    width: 506px;
+height: 28px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 38px;
+
+/* identical to box height, or 112% */
+
+letter-spacing: 0.5px;
+
+/* Primary/Primary Color 01/Primary Color 01 - Base */
+
+color: #3377FF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.onesevenm {
+    position: absolute;
+width: 77px;
+height: 43px;
+left: 22px;
+top: 10px;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 600;
+font-size: 20.4286px;
+line-height: 43px;
+/* identical to box height, or 136% */
+
+letter-spacing: 0.714286px;
+
+color: #FFFFFF;
+}
+
+
+.servicep{
+    position: absolute;
+width: 190px;
+height: 38px;
+left: 20px;
+top: 43px;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 600;
+font-size: 15.8571px;
+line-height: 37px;
+/* identical to box height, or 162% */
+
+letter-spacing: 0.714286px;
+
+color: #FFFFFF;
+}
+
+
+
+.nineeight{
+    position: absolute;
+    width: 77px;
+    height: 43px;
+    left: 22px;
+    top: 10px;
+    
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20.4286px;
+    line-height: 43px;
+    /* identical to box height, or 136% */
+    
+    letter-spacing: 0.714286px;
+    
+    color: #FFFFFF;
+}
+
+
+.usersat{
+    position: absolute;
+    width: 190px;
+    height: 38px;
+    left: 20px;
+    top: 43px;
+    
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15.8571px;
+    line-height: 37px;
+    /* identical to box height, or 162% */
+    
+    letter-spacing: 0.714286px;
+    
+    color: #FFFFFF;
+}
+
+
+.onefive{
+    position: absolute;
+    width: 77px;
+    height: 43px;
+    left: 22px;
+    top: 10px;
+    
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20.4286px;
+    line-height: 43px;
+    /* identical to box height, or 136% */
+    
+    letter-spacing: 0.714286px;
+    
+    color: #FFFFFF;
+}
+
+
+.reccuser{
+    position: absolute;
+    width: 190px;
+    height: 38px;
+    left: 20px;
+    top: 43px;
+    
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15.8571px;
+    line-height: 37px;
+    /* identical to box height, or 162% */
+    
+    letter-spacing: 0.714286px;
+    
+    color: #FFFFFF;
+}
+
+
+
+.frametwoninefour{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 80%;
+height: 479px;
+left: 169px;
+top: 1394px;
+border: 2px solid #000000;
+background-color: #E5E5E5;
+}
+
+
+
+.workdone{
+ width: 964px;
+height: 160px;
+top: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 44px;
+line-height: 50px;
+/* or 125% */
+
+text-align: center;
+letter-spacing: 0.5px;
+text-transform: capitalize;
+
+color: #000000;
+
+background-color:#E5E5E5 ;
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.creativepeople{
+
+    color: #F36523;
+    
+}
+
+.rectangle30{
+    position: absolute;
+width: 203px;
+height: 191px;
+left: 0px;
+top: 268px;
+
+background: #FFFFFF;
+border-radius: 31px;
+border: 2px solid black;
+}
+
+.rectangle35{
+    position: absolute;
+    width: 203px;
+    height: 191px;
+    left: 293px;
+    top: 268px;
+    
+    background: #FFFFFF;
+    border-radius: 31px;
+border: 2px solid black;
+
+}
+
+
+.rectangle36{
+ 
+position: absolute;
+width: 203px;
+height: 191px;
+left: 596px;
+top: 268px;
+
+background: #F36523;
+border-radius: 31px;
+
+}
+
+.rectangle37{
+    position: absolute;
+    width: 203px;
+height: 191px;
+    left: 859px;
+    top: 268px;
+    
+    background: #FFFFFF;
+    border-radius: 31px;
+border: 2px solid black;
+
 }
