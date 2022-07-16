@@ -26,6 +26,10 @@ import group108 from "../images/Group 108.png"
 import group109 from "../images/Group 109.png"
 import group111 from "../images/Group 111.png"
 import group110 from "../images/Group 110.png"
+import reactangle41 from "../images/Rectangle 41.png";
+import reactangle411 from "../images/Rectangle 411.png";
+import reactangle412 from "../images/Rectangle 41 (2).png";
+import reactangle413 from "../images/Rectangle 41 (3).png";
 
 
 
@@ -199,6 +203,25 @@ export const Home = () => {
 
       </div>
 
+
+     <p className="trending">Trending Professional <br/>
+     <span className="services">Services</span> </p>
+
+     <div className="">
+
+     <img className="rectangle41" src={reactangle41} alt="img"/>
+     <img className="rectangle411" src={reactangle411} alt="img"/>
+     <img className="rectangle412" src={reactangle412} alt="img"/>
+     <img className="rectangle413" src={reactangle413} alt="img"/>
+
+     </div>
+
+     <p className="awholeworld">
+     A Whole World Of <span className="freelance">Freelance Talent </span><br/>
+At Your Fingertips
+     </p>
+
+     
       </div>
     </div>
   );
